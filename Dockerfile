@@ -1,3 +1,3 @@
-FROM ghcr.io/toeverything/affine:0.25.1
+FROM ghcr.io/toeverything/affine:0.26.6
 
 COPY Procfile .
